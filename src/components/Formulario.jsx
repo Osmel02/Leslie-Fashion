@@ -62,7 +62,7 @@ const Formulario = ({cliente}) => {
           defaultValue={cliente?.notas}
         ></textarea>
       </div>
-      
+
         </>
     )
 }
